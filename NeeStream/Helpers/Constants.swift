@@ -8,6 +8,6 @@
 import Foundation
 struct constants {
     
-var API_URL = "https://neestream.com/api-ios/getMovieContents"
+ static var API_URL = "https://neestream.com/api-ios/getMovieContents"
 
 }

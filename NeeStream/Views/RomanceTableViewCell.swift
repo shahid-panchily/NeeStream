@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Kingfisher
 
 class RomanceTableViewCell: UITableViewCell,modeldelegate {
     static let cellId = "RomanceTableViewCell"

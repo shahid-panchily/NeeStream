@@ -23,6 +23,7 @@ class HomeViewController: UIViewController,modeldelegate{
         model.delegate = self
         print("Hello")
         print("world")
+        print("Mars")
         
     }
     func categoriesFetched(_ categories: [Categories]) {
